@@ -25,6 +25,7 @@ export const Image = styled.div`
     object-fit: cover;
   }
 `;
+
 export const Hide = styled.div`
   overflow: hidden;
 `;
